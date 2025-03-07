@@ -57,6 +57,7 @@ qt6ct                                                  # qt6 configuration tool
 kvantum                                                # svg based qt6 theme engine
 kvantum-qt5                                            # svg based qt5 theme engine
 qt5-wayland                                            # wayland support in qt5
+qt6-base
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
@@ -84,3 +85,6 @@ pokemon-colorscripts-git|zsh                           # display pokemon sprites
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
+
+# --------------------------------------------------- // Unikey
+fcitx5-unikey
