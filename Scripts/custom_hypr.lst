@@ -35,6 +35,7 @@ hyprpicker                                             # color picker
 slurp                                                  # region select for screenshot/screenshare
 swappy                                                 # screenshot editor
 cliphist                                               # clipboard manager
+nwg-dock-hyprland                                      # dock menu
 
 # --------------------------------------------------- // Dependencies
 polkit-gnome                                           # authentication agent
@@ -59,12 +60,16 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
+# firefox                                              # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 vim                                                    # terminal text editor
 code                                                   # ide text editor
+
+# --------------------------------------------------- // Gaming
+cachyos-gaming-meta                                    # Gaming setup.
+cachyos-gaming-applications                            # Gamescope, Goverlay, Heroic Games Launcher, Lutris, MangoHud and Steam.
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
