@@ -6,6 +6,7 @@ io.missioncenter.MissionCenter                 # MissionCenter
 io.gitlab.adhami3310.Impression                # Impression
 # com.usebottles.bottles                       # Bottles
 # io.github.dimtpap.coppwr                     # Coppwr
+com.parsecgaming.parsec                        # Parsec
 
 # ------------------------------------------- // Browser
 #com.brave.Browser                             # Brave
