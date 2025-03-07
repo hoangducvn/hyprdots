@@ -23,6 +23,7 @@ dev.vencord.Vesktop                            # Vesktop
 # md.obsidian.Obsidian                         # Obsidian
 # org.mozilla.Thunderbird                      # Thunderbird
 # io.github.alainm23.planify                   # Planify
+com.jetbrains.Rider
 
 # ------------------------------------------- // Image/Graphics
 org.inkscape.Inkscape                          # Inkscape
